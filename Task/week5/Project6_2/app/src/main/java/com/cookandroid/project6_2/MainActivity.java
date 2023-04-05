@@ -10,6 +10,13 @@ import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.EditText;
 
+/* ***********************
+ * 프로젝트명 : Project6_2
+ * 이름 : 윤석현
+ * 학번 : 2019038011
+ * 설명 : 간단한 웹표시 앱
+ * ************************/
+
 public class MainActivity extends AppCompatActivity {
     EditText edtUrl;
     Button btnGo, btnBack;
