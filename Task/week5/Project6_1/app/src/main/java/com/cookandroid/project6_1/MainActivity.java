@@ -16,6 +16,14 @@ import android.widget.TimePicker;
 
 import java.sql.Time;
 
+
+/* ***********************
+* 프로젝트명 : Project6_1
+* 이름 : 윤석현
+* 학번 : 2019038011
+* 설명 : 시간 예약 하고 예약된 시간을 표시하는 시스템
+* ************************/
+
 public class MainActivity extends AppCompatActivity {
     Chronometer chrono;
     Button btnStart, btnEnd;
